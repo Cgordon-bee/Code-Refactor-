@@ -88,14 +88,13 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* merged classes with identical properties for comestic reasons */
+/* From line 91 onward I have merged classes with identical properties for comestic reasons */
     .benefit-lead,
     .benefit-brand,
     .benefit-cost{ 
     margin-bottom: 32px;
     color: #ffffff;
-    }
-    /*  */
+    } 
     .benefit-lead h3, 
     .benefit-brand h3, 
     .benefit-cost h3 {
